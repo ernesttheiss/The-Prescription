@@ -1,0 +1,19 @@
+2023-11-16 14:32:32.340 [info] 
+
+
+
+
+2023-11-16 14:32:32.349 [info] Extension host agent started.
+2023-11-16 14:32:32.458 [info] [127.0.0.1][16a73314][ManagementConnection] New connection established.
+2023-11-16 14:32:32.739 [info] [127.0.0.1][c673b72c][ExtensionHostConnection] New connection established.
+2023-11-16 14:32:32.982 [info] [127.0.0.1][c673b72c][ExtensionHostConnection] <1118> Launched Extension Host Process.
+2023-11-16 14:32:36.040 [info] Getting Manifest... eamodio.gitlens
+2023-11-16 14:32:36.260 [info] Installing extension: eamodio.gitlens
+2023-11-16 14:32:37.039 [warning] Extension signature verification failed with error 'ENOENT': eamodio.gitlens
+2023-11-16 14:32:37.450 [info] Extracted extension to file:///home/ernest/.vscode-server/extensions/eamodio.gitlens-14.5.0: eamodio.gitlens
+2023-11-16 14:32:37.468 [info] Renamed to /home/ernest/.vscode-server/extensions/eamodio.gitlens-14.5.0
+2023-11-16 14:32:37.473 [info] Extracting extension completed. eamodio.gitlens
+2023-11-16 14:32:37.480 [info] Extension installed successfully: eamodio.gitlens
+2023-11-16 14:32:37.498 [info] Marked extension as uninstalled eamodio.gitlens-14.4.1
+2023-11-16 14:43:12.126 [info] [127.0.0.1][16a73314][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-11-16 14:43:12.230 [info] [127.0.0.1][c673b72c][ExtensionHostConnection] <1118> Extension Host Process exited with code: 0, signal: null.

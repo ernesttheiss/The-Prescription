@@ -1,0 +1,7 @@
+{
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.tree.indent": 18,
+    "git.autofetch": true
+}

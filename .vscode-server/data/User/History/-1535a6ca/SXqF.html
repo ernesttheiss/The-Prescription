@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Meet EGTIV</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="pswebsite.css" rel="stylesheet" type="text/css">
+        <link href="about.html" rel="html" type="text/html">
+        <link href="portfolio.html" rel="html" type="text/html">
+        <link href="meetme.html" rel="html" type="text/html">
+        </head>
+        <header>Lets Meet!</header>
+    <body>
+        <h1>Hello There</h1>
+        <p>Would you like to meet me sometime and talk about ideas?</p>
+        <br>
+        <h2>Terms and Conditions</h2>
+        <p>Here is where I lay out what is requrired for meeting up.</p>
+        <br>
+        <h3>If you would like to meet please fill in your information below and I will reach out to you.</h3>
+        <br>
+        <h1>Throw Down that Info!</h1>
+        <hr>
+        <form id="myForm" action="process_form.php" method="POST">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
+            <br>
+            <lable for="email">Email:</lable>
+            <input type="email" id="email" name="email" required>
+            <br> 
+            <input type="submit" value="Submit">
+        </form>
+        <p id="result"></p>
+        <div class="button-container">
+            <a href="Home.html"><button>Home</button></a>
+            <a href="about.html"><button>About Me</button></a>
+            <a href="portfolio.html"><button>Portfolio</button></a>
+            <a herf="meetme.html"><button>Meet Me</button></a>
+        </div>
+
+
+        
+
+    </body>
+    <script src="pswebsite.js" defer></script>
+</html>

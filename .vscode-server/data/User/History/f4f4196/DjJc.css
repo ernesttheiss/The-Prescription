@@ -1,0 +1,28 @@
+body {
+    background-color: orange;
+}
+h1 {
+    font-size: x-large;
+    font-style: italic;
+    color:white
+}
+h2 {
+    font-style: oblique;
+    font-size: x-large;
+    color:white
+    
+}
+h3 {
+    font-size: xx-large;
+    font-style: italic;
+    color:white;
+    text-align: center;
+    
+}
+p {
+    font-style: italic;
+    font-size: medium;
+    color: white;
+    
+
+}

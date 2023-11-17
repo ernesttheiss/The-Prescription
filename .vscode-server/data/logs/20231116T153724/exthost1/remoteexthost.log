@@ -1,0 +1,85 @@
+2023-11-16 15:37:25.961 [info] Extension host with pid 1107 started
+2023-11-16 15:37:25.973 [info] Lock '/home/ernest/.vscode-server/data/User/workspaceStorage/5ccb9994fe73f9e914a369d7df65aeec/vscode.lock': Lock acquired.
+2023-11-16 15:37:26.017 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2023-11-16 15:37:26.019 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-11-16 15:37:26.019 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2023-11-16 15:37:26.341 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-11-16 15:37:26.341 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+2023-11-16 15:37:26.341 [info] ExtensionService#_doActivateExtension kamikillerto.vscode-colorize, startup: true, activationEvent: '*'
+2023-11-16 15:37:26.543 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-11-16 15:37:26.544 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-11-16 15:37:26.866 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-11-16 15:37:27.015 [info] Eager extensions activated
+2023-11-16 15:37:27.016 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-11-16 15:37:27.018 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-11-16 15:37:27.019 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2023-11-16 15:37:27.019 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2023-11-16 15:37:27.019 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-11-16 15:37:27.020 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-11-16 15:37:28.082 [warning] [Decorations] CAPPING events from decorations provider vscode.git 11656
+2023-11-16 15:37:29.350 [warning] [Decorations] CAPPING events from decorations provider vscode.git 11656
+2023-11-16 15:37:31.106 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-11-16 15:37:31.107 [info] ExtensionService#_doActivateExtension george-alisson.html-preview-vscode, startup: false, activationEvent: 'onLanguage:html'
+2023-11-16 15:37:32.524 [warning] [Decorations] CAPPING events from decorations provider vscode.git 11656
+2023-11-16 15:40:33.279 [warning] [Decorations] CAPPING events from decorations provider vscode.git 11656
+2023-11-16 15:47:26.688 [warning] [Decorations] CAPPING events from decorations provider vscode.git 11656
+2023-11-16 15:50:29.762 [warning] [Decorations] CAPPING events from decorations provider vscode.git 11656
+2023-11-16 15:51:29.659 [warning] TextEditor is closed/disposed
+2023-11-16 16:04:10.422 [warning] [Decorations] CAPPING events from decorations provider vscode.git 11656
+2023-11-16 16:04:23.602 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-11-16 16:04:30.889 [error] [ecmel.vscode-html-css] provider FAILED
+2023-11-16 16:04:30.889 [error] undefined
+2023-11-16 16:04:32.290 [error] [ecmel.vscode-html-css] provider FAILED
+2023-11-16 16:04:32.290 [error] undefined
+2023-11-16 16:04:32.639 [error] [ecmel.vscode-html-css] provider FAILED
+2023-11-16 16:04:32.639 [error] undefined
+2023-11-16 16:04:37.507 [error] [ecmel.vscode-html-css] provider FAILED
+2023-11-16 16:04:37.507 [error] undefined
+2023-11-16 16:04:37.854 [error] [ecmel.vscode-html-css] provider FAILED
+2023-11-16 16:04:37.854 [error] undefined
+2023-11-16 16:04:38.647 [error] [ecmel.vscode-html-css] provider FAILED
+2023-11-16 16:04:38.647 [error] undefined
+2023-11-16 16:04:38.725 [error] [ecmel.vscode-html-css] provider FAILED
+2023-11-16 16:04:38.725 [error] undefined
+2023-11-16 16:04:39.528 [error] [ecmel.vscode-html-css] provider FAILED
+2023-11-16 16:04:39.529 [error] undefined
+2023-11-16 16:04:39.730 [error] [ecmel.vscode-html-css] provider FAILED
+2023-11-16 16:04:39.730 [error] undefined
+2023-11-16 16:04:39.879 [error] [ecmel.vscode-html-css] provider FAILED
+2023-11-16 16:04:39.879 [error] undefined
+2023-11-16 16:04:39.960 [error] [ecmel.vscode-html-css] provider FAILED
+2023-11-16 16:04:39.960 [error] undefined
+2023-11-16 16:04:40.102 [error] [ecmel.vscode-html-css] provider FAILED
+2023-11-16 16:04:40.102 [error] undefined
+2023-11-16 16:04:43.320 [error] [ecmel.vscode-html-css] provider FAILED
+2023-11-16 16:04:43.320 [error] undefined
+2023-11-16 16:04:48.037 [error] [ecmel.vscode-html-css] provider FAILED
+2023-11-16 16:04:48.037 [error] undefined
+2023-11-16 16:04:48.453 [error] [ecmel.vscode-html-css] provider FAILED
+2023-11-16 16:04:48.453 [error] undefined
+2023-11-16 16:04:48.919 [error] [ecmel.vscode-html-css] provider FAILED
+2023-11-16 16:04:48.919 [error] undefined
+2023-11-16 16:04:49.435 [error] [ecmel.vscode-html-css] provider FAILED
+2023-11-16 16:04:49.435 [error] undefined
+2023-11-16 16:04:49.864 [error] [ecmel.vscode-html-css] provider FAILED
+2023-11-16 16:04:49.864 [error] undefined
+2023-11-16 16:04:50.132 [error] [ecmel.vscode-html-css] provider FAILED
+2023-11-16 16:04:50.132 [error] undefined
+2023-11-16 16:04:52.537 [error] [ecmel.vscode-html-css] provider FAILED
+2023-11-16 16:04:52.537 [error] undefined
+2023-11-16 16:04:58.355 [error] [ecmel.vscode-html-css] provider FAILED
+2023-11-16 16:04:58.355 [error] undefined
+2023-11-16 16:05:11.164 [warning] TextEditor is closed/disposed
+2023-11-16 16:05:52.790 [info] ExtensionService#_doActivateExtension ms-vscode.live-server, startup: false, activationEvent: 'onCommand:livePreview.start.preview.atFile'
+2023-11-16 16:06:08.670 [warning] TextEditor is closed/disposed
+2023-11-16 16:06:33.965 [warning] TextEditor is closed/disposed
+2023-11-16 16:06:48.201 [warning] TextEditor is closed/disposed
+2023-11-16 16:07:04.748 [error] [ecmel.vscode-html-css] provider FAILED
+2023-11-16 16:07:04.748 [error] undefined
+2023-11-16 16:07:11.281 [warning] [Decorations] CAPPING events from decorations provider vscode.git 11656
+2023-11-16 16:07:16.654 [warning] TextEditor is closed/disposed
+2023-11-16 16:07:18.562 [warning] TextEditor is closed/disposed
+2023-11-16 16:07:23.371 [warning] TextEditor is closed/disposed
+2023-11-16 16:08:29.815 [warning] TextEditor is closed/disposed
+2023-11-16 16:08:37.878 [warning] TextEditor is closed/disposed
+2023-11-16 16:08:39.747 [warning] TextEditor is closed/disposed
