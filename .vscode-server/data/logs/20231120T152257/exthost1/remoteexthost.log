@@ -1,0 +1,1868 @@
+2023-11-20 15:22:59.264 [info] Extension host with pid 1126 started
+2023-11-20 15:22:59.285 [info] Lock '/home/ernest/.vscode-server/data/User/workspaceStorage/5ccb9994fe73f9e914a369d7df65aeec/vscode.lock': Lock acquired.
+2023-11-20 15:22:59.356 [info] ExtensionService#_doActivateExtension vscode.tunnel-forwarding, startup: false, activationEvent: 'onTunnel'
+2023-11-20 15:22:59.357 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-11-20 15:22:59.357 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2023-11-20 15:22:59.664 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-11-20 15:22:59.664 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+2023-11-20 15:22:59.665 [info] ExtensionService#_doActivateExtension kamikillerto.vscode-colorize, startup: true, activationEvent: '*'
+2023-11-20 15:22:59.829 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-11-20 15:22:59.829 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-11-20 15:23:00.179 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-11-20 15:23:00.371 [info] Eager extensions activated
+2023-11-20 15:23:00.371 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-11-20 15:23:00.372 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-11-20 15:23:00.372 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2023-11-20 15:23:00.372 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2023-11-20 15:23:00.373 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-11-20 15:23:00.373 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-11-20 15:23:03.511 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.511 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.511 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.511 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.511 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.511 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.511 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.511 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.511 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.512 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.513 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:03.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.514 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.515 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.516 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.516 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.516 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.517 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.517 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.517 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.518 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.518 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.518 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.519 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.519 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.519 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.519 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.520 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.520 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.520 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.520 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.521 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.521 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.521 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.521 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.521 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.522 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.522 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.522 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.522 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.522 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.522 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.523 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.523 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.523 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.523 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.523 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.524 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.524 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.524 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.524 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.524 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.524 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:04.525 [error] Error: Git error
+	at ChildProcess.<anonymous> (/home/ernest/.vscode-server/bin/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e/extensions/git/dist/main.js:2:1382633)
+	at ChildProcess.emit (node:events:525:35)
+	at ChildProcess._handle.onexit (node:internal/child_process:291:12)
+2023-11-20 15:23:09.943 [warning] TextEditor is closed/disposed
+2023-11-20 15:23:09.970 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-11-20 15:23:16.551 [warning] TextEditor is closed/disposed
+2023-11-20 15:23:19.037 [warning] TextEditor is closed/disposed
+2023-11-20 15:24:37.420 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-11-20 15:24:37.420 [info] ExtensionService#_doActivateExtension george-alisson.html-preview-vscode, startup: false, activationEvent: 'onLanguage:html'
+2023-11-20 15:49:38.518 [warning] TextEditor is closed/disposed
+2023-11-20 15:49:42.590 [error] [ecmel.vscode-html-css] provider FAILED
+2023-11-20 15:49:42.590 [error] undefined
+2023-11-20 15:49:56.036 [error] [ecmel.vscode-html-css] provider FAILED
+2023-11-20 15:49:56.036 [error] undefined
+2023-11-20 15:49:57.541 [error] [ecmel.vscode-html-css] provider FAILED
+2023-11-20 15:49:57.541 [error] undefined
+2023-11-20 15:50:02.993 [error] [ecmel.vscode-html-css] provider FAILED
+2023-11-20 15:50:02.993 [error] undefined
+2023-11-20 15:50:03.601 [error] [ecmel.vscode-html-css] provider FAILED
+2023-11-20 15:50:03.601 [error] undefined
+2023-11-20 15:50:03.711 [error] [ecmel.vscode-html-css] provider FAILED
+2023-11-20 15:50:03.711 [error] undefined
+2023-11-20 15:50:03.779 [error] [ecmel.vscode-html-css] provider FAILED
+2023-11-20 15:50:03.779 [error] undefined
+2023-11-20 15:50:03.950 [error] [ecmel.vscode-html-css] provider FAILED
+2023-11-20 15:50:03.950 [error] undefined
+2023-11-20 15:50:13.681 [error] [ecmel.vscode-html-css] provider FAILED
+2023-11-20 15:50:13.681 [error] undefined
+2023-11-20 15:57:17.819 [warning] TextEditor is closed/disposed
+2023-11-20 16:09:13.048 [error] [ecmel.vscode-html-css] provider FAILED
+2023-11-20 16:09:13.048 [error] undefined
+2023-11-20 16:09:32.995 [error] [ecmel.vscode-html-css] provider FAILED
+2023-11-20 16:09:32.995 [error] undefined
+2023-11-20 16:09:34.145 [error] [ecmel.vscode-html-css] provider FAILED
+2023-11-20 16:09:34.145 [error] undefined
+2023-11-20 16:12:37.428 [info] ExtensionService#_doActivateExtension ms-vscode.live-server, startup: false, activationEvent: 'onCommand:livePreview.start.preview.atFile'
+2023-11-20 16:21:17.350 [warning] TextEditor is closed/disposed
+2023-11-20 16:21:47.433 [warning] TextEditor is closed/disposed
+2023-11-20 16:21:47.447 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model33)
+2023-11-20 16:21:51.644 [warning] TextEditor is closed/disposed
+2023-11-20 16:22:59.386 [warning] TextEditor is closed/disposed
+2023-11-20 16:23:43.667 [warning] TextEditor is closed/disposed
+2023-11-20 16:37:39.303 [warning] TextEditor is closed/disposed
+2023-11-20 16:37:40.579 [warning] TextEditor is closed/disposed
+2023-11-20 16:37:47.634 [warning] TextEditor is closed/disposed
+2023-11-20 16:37:48.832 [warning] TextEditor is closed/disposed
+2023-11-20 16:38:07.379 [warning] TextEditor is closed/disposed
+2023-11-20 16:38:33.476 [warning] TextEditor is closed/disposed
+2023-11-20 16:38:51.513 [warning] TextEditor is closed/disposed
+2023-11-20 16:39:03.170 [error] [ecmel.vscode-html-css] provider FAILED
+2023-11-20 16:39:03.170 [error] undefined
+2023-11-20 16:39:09.678 [error] [ecmel.vscode-html-css] provider FAILED
+2023-11-20 16:39:09.678 [error] undefined
+2023-11-20 16:41:17.217 [warning] TextEditor is closed/disposed
+2023-11-20 16:41:19.990 [warning] TextEditor is closed/disposed
+2023-11-20 16:41:26.521 [warning] TextEditor is closed/disposed
+2023-11-20 16:41:34.148 [warning] TextEditor is closed/disposed
+2023-11-20 16:41:42.438 [warning] TextEditor is closed/disposed
+2023-11-20 16:58:34.635 [warning] TextEditor is closed/disposed
+2023-11-20 17:12:52.826 [warning] TextEditor is closed/disposed
+2023-11-20 17:30:55.945 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
