@@ -15,3 +15,5 @@
 2023-11-22 14:43:37.128 [info] Extracting extension completed. eamodio.gitlens
 2023-11-22 14:43:37.137 [info] Extension installed successfully: eamodio.gitlens
 2023-11-22 14:43:37.163 [info] Marked extension as uninstalled eamodio.gitlens-14.5.0
+2023-11-22 18:31:31.832 [info] [127.0.0.1][658740f2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-11-22 18:31:32.059 [info] [127.0.0.1][eb7c73d5][ExtensionHostConnection] <1135> Extension Host Process exited with code: 0, signal: null.

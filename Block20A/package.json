@@ -1,0 +1,12 @@
+{
+  "name": "block20a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "theprescription.dom.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
